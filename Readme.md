@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/SnapServerGettingStarted/Program.cs) (VB: [Program.vb](./VB/SnapServerGettingStarted/Program.vb))
+<!-- default file list end -->
 # Snap Report API  - Getting Started
 
 
